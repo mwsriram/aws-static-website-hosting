@@ -15,7 +15,7 @@ I used the following AWS services:
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram]<img src="architecture.png" alt="CloudFront" width="500"/>
+(architecture.png)
 
 
 **Workflow:**  
