@@ -15,7 +15,7 @@ I used the following AWS services:
 ---
 
 ## 🏗️ Architecture
-(architecture.png)
+![Architecture Diagram](architecture.png)
 
 
 **Workflow:**  
