@@ -15,7 +15,8 @@ I used the following AWS services:
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram]<img src="architecture.png" alt="CloudFront" width="500"/>
+
 
 **Workflow:**  
 1. Website files are stored in an **S3 bucket** (public access blocked, accessed only through CloudFront).  
