@@ -33,7 +33,15 @@ I used the following AWS services:
 - Globally distributed website via CloudFront CDN.  
 
 ---
-
+## 📸 Screenshots
+#S3_Bucket:
+![S3_bucket Screenshot](assets/s3_bucket.png)
+#Route53:
+![Route53 Screenshot](assets/route53.png)
+#ACM:
+![ACM Screenshot](assets/acm.png)
+#CloudFront Distribution:
+![CloudFront Screenshot](assets/cloudfront_distribution.png)
 ## 📚 Skills Gained
 - AWS S3 bucket policies & security best practices.  
 - DNS configuration and domain integration with Route 53.  
